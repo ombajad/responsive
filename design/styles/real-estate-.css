@@ -12,9 +12,12 @@ ul, li {
 input {
 	border: none;
 }
+@media only screen and (max-width: 600px){
 body {
   width: 144rem;
-}.real-estate--Cc4 {
+}
+}
+.real-estate--Cc4 {
   width: 100%;
   height: 1163.4rem;
   position: relative;
